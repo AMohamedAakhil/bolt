@@ -66,3 +66,9 @@ Once both the backend and frontend servers are running, you can access the full 
 
 ### Youtube Demo
 https://www.youtube.com/watch?v=Gx_AhuvkAIk
+
+### Medium Article Link 
+https://medium.com/@harshilkumar2020/ai-integrated-online-shopping-a110c92f78de
+
+### PPT Link
+https://docs.google.com/presentation/d/1Q5DHOqhqCKihy2rSHm8MujtXWUtm98ymWSHuP2IyTV4/edit#slide=id.g2bbe570b806_1_64
