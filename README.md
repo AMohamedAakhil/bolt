@@ -56,7 +56,7 @@ This repository contains both backend and frontend components for an application
 
 ### Accessing the Application
 
-Once both the backend and frontend servers are running, you can access the full application by navigating to `http://localhost:8080` in your web browser. The frontend will communicate with the backend API running at `http://localhost:5000` to fetch data and perform actions as needed.
+Once both the backend and frontend servers are running, you can access the full application by navigating to `http://localhost:8000` in your web browser. The frontend will communicate with the backend API running at `http://localhost:5000` to fetch data and perform actions as needed.
 
 ### Additional Notes
 
