@@ -2,6 +2,17 @@
 
 This repository contains both backend and frontend components for an application. Follow the instructions below to set up and run the application locally.
 
+
+### Youtube Demo
+https://www.youtube.com/watch?v=Gx_AhuvkAIk
+
+### Medium Article Link 
+https://medium.com/@harshilkumar2020/ai-integrated-online-shopping-a110c92f78de
+
+### PPT Link
+https://docs.google.com/presentation/d/1Q5DHOqhqCKihy2rSHm8MujtXWUtm98ymWSHuP2IyTV4/edit#slide=id.g2bbe570b806_1_64
+
+
 ### Backend Setup
 
 1. Navigate to the `backend` folder:
@@ -64,11 +75,4 @@ Once both the backend and frontend servers are running, you can access the full 
 - You may need to customize certain configurations, such as database connections or API endpoints, based on your specific requirements.
 - For production deployment, consider building the frontend assets and serving them statically from the backend server, or deploying them separately on a suitable hosting platform.
 
-### Youtube Demo
-https://www.youtube.com/watch?v=Gx_AhuvkAIk
 
-### Medium Article Link 
-https://medium.com/@harshilkumar2020/ai-integrated-online-shopping-a110c92f78de
-
-### PPT Link
-https://docs.google.com/presentation/d/1Q5DHOqhqCKihy2rSHm8MujtXWUtm98ymWSHuP2IyTV4/edit#slide=id.g2bbe570b806_1_64
